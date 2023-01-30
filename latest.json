@@ -1,1 +1,1 @@
-﻿{"LatestVersion":"1.6","ReleaseDate":"2023-01-14","ReleaseNote":{"zh-CN":"一、新增功能\r\nurl编码页面内容记忆\r\nurl编码页面显示字符数目\r\n\r\n二、优化修复\r\n集成关于窗口\r\n优化 json 格式化显示格式"}}
+﻿{"LatestVersion":"1.7","ReleaseDate":"2023-01-31","ReleaseNote":{"zh-CN":"【一、新增功能】 \r\n显示字符数\r\n搜索\r\n命令显示复制按钮\r\n支持多个选项卡\r\n\r\n【二、优化修复】\r\n记住上次打开的选项卡\r\n鼠标卡顿选项优化\r\n关于优化"}}
