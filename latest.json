@@ -1,7 +1,7 @@
 ﻿{
-  "LatestVersion": "1.8",
-  "ReleaseDate": "2023-02-02",
+  "LatestVersion": "1.9",
+  "ReleaseDate": "2023-03-27",
   "ReleaseNote": {
-    "zh-CN": "【一、新增功能】 \r\n新增 Header 格式化选项卡\r\n\r\n【二、优化修复】\r\n优化 textbox 获得焦点效果\r\n优化加密选项"
+    "zh-CN": "【一、新增功能】 \r\n无\r\n\r\n【二、优化修复】\r\n统一修复窗体问题"
   }
 }
