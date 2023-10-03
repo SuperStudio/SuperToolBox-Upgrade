@@ -1,7 +1,7 @@
 ﻿{
-  "LatestVersion": "2.2",
-  "ReleaseDate": "2023-05-18",
+  "LatestVersion": "2.3",
+  "ReleaseDate": "2023-10-03",
   "ReleaseNote": {
-    "zh-CN": "【一、新增功能】 \r\n无\r\n\r\n【二、优化修复】\r\n修复进制转换和编码保存冲突\r\n密码：参考文献\r\n进制转换白色看不清"
+    "zh-CN": "优化外观"
   }
 }
